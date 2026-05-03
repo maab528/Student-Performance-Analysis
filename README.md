@@ -5,8 +5,6 @@
 This project analyzes student performance based on multiple factors such as gender, parental education level, test preparation, and lunch type.
 The goal is to uncover patterns and insights that impact student academic success.
 
----
-
 ## 📊 Dataset
 
 * Source: Public dataset (Kaggle / Online)
@@ -19,8 +17,6 @@ The goal is to uncover patterns and insights that impact student academic succes
   * Test Preparation Course
   * Math, Reading, Writing Scores
 
----
-
 ## 🛠 Tools & Technologies
 
 * Power BI
@@ -31,10 +27,12 @@ The goal is to uncover patterns and insights that impact student academic succes
 ---
 
 ## 📈 Dashboard Preview
+🖼 Dashboard Preview
+
 
 ![Dashboard](images/dashboard_preview.png)
 
----
+
 
 ## 🔍 Key Insights
 
@@ -54,14 +52,11 @@ The goal is to uncover patterns and insights that impact student academic succes
 
 * Students with standard lunch tend to perform better than those with free/reduced lunch.
 
----
-
 ## 📌 Conclusion
 
 Student performance is strongly influenced by preparation, family background, and available resources.
 Targeted educational support can significantly improve outcomes.
 
----
 
 ## 🚀 Future Improvements
 
@@ -69,8 +64,7 @@ Targeted educational support can significantly improve outcomes.
 * Include more demographic variables
 * Build interactive filters for deeper insights
 
----
 
-## 👩‍💻 Author
 
-**Map (Data Analyst)**
+## 👩‍💻 Maab Faisal
+- LinkedIn: (http://linkedin.com/in/maab-faisal-291a52219)
