@@ -30,8 +30,8 @@ The goal is to uncover patterns and insights that impact student academic succes
 🖼 Dashboard Preview
 
 
-![Student-Performance-Analysis](Dashboard/Screenshot 2024-11-15 151237.png)
 
+![Student-Performance-Analysis](Dashboard/Screenshot)
 
 
 
